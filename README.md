@@ -1,4 +1,4 @@
-# 📊 Automated 12-Month Amazon Sales Dashboard
+# 📊 Automated Amazon Sales Dashboard
 
 An end-to-end automated sales analytics dashboard designed to process and analyze monthly e-commerce sales datasets. Built to seamlessly handle **all 12 monthly data files**, the pipeline automates data ingestion, cleaning, feature extraction, KPI calculation, and interactive visual reporting.
 
